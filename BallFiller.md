@@ -1,4 +1,4 @@
-# <strong> Ball Filler.  </strong> #
+# <strong> Ball Filler </strong> #
 
 ## <strong> Description </strong> ##
 
