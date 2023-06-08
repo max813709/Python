@@ -2,7 +2,7 @@
 
 ## <strong> Description </strong> ##
 
-A program for finding the amount of surface are to fill a ball.
+A program for finding the amount of surface area to fill a ball.
 
 ## <strong> Technologies Used </strong> ##
 Visual Studio Code. Version 1.78.2
