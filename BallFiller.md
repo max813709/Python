@@ -12,7 +12,7 @@ Visual Studio Code. Version 1.78.2
 
 ## <strong> Features </strong> ##
 Requests user input for balls to be manufactured, diameter and core volume of each ball.
-imports Math library.
+Imports Math library.
 
 ## <strong> Contributors </strong> ##
 Matthew Emsak
