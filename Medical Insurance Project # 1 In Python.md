@@ -1,4 +1,4 @@
-# <strong> Medical Insurance Project </strong> #
+# <strong> Medical Insurance Project - Sample # 1 </strong> #
 
 ## <strong> Description </strong> ##
 A sample determination of insurance cost for a sample patient.
