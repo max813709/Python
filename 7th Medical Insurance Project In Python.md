@@ -1,4 +1,4 @@
-# <strong> Medical Insurance Project - Sample # 1 </strong> #
+# <strong> Medical Insurance Project - Sample # 7 </strong> #
 
 ## <strong> Description </strong> ##
 A sample determination of insurance cost for a sample patient.
@@ -6,7 +6,7 @@ A sample determination of insurance cost for a sample patient.
 ## <strong> Technologies Used </strong> ##
 Visual Studio Code. Version 1.78.2
 
-![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/7878cc425e4ce5a15b5ceaebd79191e1b52640de/Screenshot%202023-07-04%20232748.png">
+![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/31274ac2bda82970868cc659f05f9a4f6b124e08/Screenshot%202023-07-06%20095339.png">
 
 ## <strong> Features </strong> ##
 • Takes in history details as inputs in the sample patient
