@@ -1,4 +1,4 @@
-# <strong> Hurricaine Analysis </strong> #
+# <strong> Hurricane Analysis </strong> #
 
 ## <strong> Description </strong> ##
 A sample determination of Hurricaine trends over the past 100 years.
