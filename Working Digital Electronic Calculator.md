@@ -20,7 +20,7 @@ imports the tkinter library.
 ![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/e0946c6c30ee2ae68ee5d1af25ee28fe9b698611/Screenshot%202023-06-07%20234312.png">
 
 ## <strong> Contributors </strong> ##
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong> ##
 This project uses the following license: MiT.
