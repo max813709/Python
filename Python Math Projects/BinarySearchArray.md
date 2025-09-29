@@ -14,7 +14,7 @@ Asks user input for any number in the array.
 Produces the index of that number in the array.
 
 ## <strong> Contributors </strong> ##
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong> ##
 This project uses the following license: MiT.
