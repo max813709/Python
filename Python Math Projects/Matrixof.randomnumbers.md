@@ -14,7 +14,7 @@ Visual Studio Code. Version 1.78.2
 Generates a random matrix of numbers upon user input. Imports random and randint libraries.
 
 ## <strong> Contributors </strong> ##
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong> ##
 This project uses the following license: MiT.
