@@ -12,7 +12,7 @@ Visual Studio Code. Version 1.78.2
 Factorial Recursion of this program equates to x = y^y-1. This program solves for x i.e. the factorial.
 
 ## <strong> Contributors </strong> ##
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong> ##
 This project uses the following license: MiT.
