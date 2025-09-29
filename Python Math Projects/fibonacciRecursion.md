@@ -14,7 +14,7 @@ Visual Studio Code. Version 1.78.2
 Uses a number in the fibonacci sequence and obtains its value via recursion.
 
 ## <strong> Contributors </strong> ##
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong> ##
 This project uses the following license: MiT.
