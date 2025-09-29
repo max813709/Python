@@ -14,7 +14,7 @@ Requests user input to determine if a user input can form a circle.
 Imports Math library.
 
 ## <strong> Contributors </strong> ##
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong> ##
 This project uses the following license: MiT.
