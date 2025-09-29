@@ -13,7 +13,7 @@ Uses the random and randint libraries.
 Bubble sorts an array of numbers.
 
 ## <strong> Contributors </strong> ##
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong> ##
 This project uses the following license: MiT.
