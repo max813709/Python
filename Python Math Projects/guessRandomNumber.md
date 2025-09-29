@@ -14,7 +14,7 @@ Visual Studio Code. Version 1.78.2
 Allows the user to take turns guessing numbers until the user arrives at the correct integer. Imports Random nad Randint libraries.
 
 ## <strong> Contributors </strong> ##
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong> ##
 This project uses the following license: MiT.
