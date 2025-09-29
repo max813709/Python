@@ -12,7 +12,7 @@ Visual Studio Code. Version 1.78.2
 Converts Degrees from Celsius to Farenheit.
 
 ## <strong> Contributors </strong> ##
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong> ##
 This project uses the following license: MiT.
