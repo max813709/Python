@@ -18,7 +18,7 @@ Visual Studio Code. Version 1.78.2
 
 
 ## <strong> Contributors </strong> ##
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong> ##
 This project uses the following license: MiT.
