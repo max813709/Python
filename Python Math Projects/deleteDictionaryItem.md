@@ -14,7 +14,7 @@ Deletes an item from a stored a predetermined dictionary array of items.
 Imports random library.
 
 ## <strong> Contributors </strong> ##
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong> ##
 This project uses the following license: MiT.
